@@ -1,0 +1,2 @@
+# whitepaper
+Tazz coin whitepaper
